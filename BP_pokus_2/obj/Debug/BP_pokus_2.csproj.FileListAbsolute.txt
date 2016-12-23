@@ -1,0 +1,14 @@
+C:\Users\Comp\Documents\SharpDevelop Projects\BP_pokus_2\BP_pokus_2\bin\Debug\BP_pokus_2.exe
+C:\Users\Comp\Documents\SharpDevelop Projects\BP_pokus_2\BP_pokus_2\bin\Debug\BP_pokus_2.pdb
+C:\Users\Comp\Documents\SharpDevelop Projects\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Documents\SharpDevelop Projects\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.MainForm.resources
+C:\Users\Comp\Documents\SharpDevelop Projects\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.csproj.GenerateResource.Cache
+C:\Users\Comp\Documents\SharpDevelop Projects\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.exe
+C:\Users\Comp\Documents\SharpDevelop Projects\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.pdb
+C:\Users\Comp\Documents\GitHub\BP_pokus_2\BP_pokus_2\bin\Debug\BP_pokus_2.exe
+C:\Users\Comp\Documents\GitHub\BP_pokus_2\BP_pokus_2\bin\Debug\BP_pokus_2.pdb
+C:\Users\Comp\Documents\GitHub\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.csprojResolveAssemblyReference.cache
+C:\Users\Comp\Documents\GitHub\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.MainForm.resources
+C:\Users\Comp\Documents\GitHub\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.csproj.GenerateResource.Cache
+C:\Users\Comp\Documents\GitHub\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.exe
+C:\Users\Comp\Documents\GitHub\BP_pokus_2\BP_pokus_2\obj\Debug\BP_pokus_2.pdb
