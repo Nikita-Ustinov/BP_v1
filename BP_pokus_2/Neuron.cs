@@ -1,14 +1,16 @@
 ﻿using System;
+using System.IO;
 
 namespace BP_pokus_2
 {
+	[Serializable]
 	public class Neuron
 	{
 		public	double [] weights, input;
 		public	double output, grad, sum ;
 	    public	Neuron next;
 		Program p=new Program();
-			
+	
 			
 		public Neuron(int vrstva)
 		{	

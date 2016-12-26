@@ -2,6 +2,7 @@
 
 namespace BP_pokus_2
 {
+	[Serializable]
 	public class List
 	{
 		public	int length;
@@ -47,10 +48,10 @@ namespace BP_pokus_2
 			
 		public void writeInput(String line){
 			Neuron templ=head;
-			for (int i=0; i<outputs.Length; i++){
+			for (int i=0; i<p.prvniVrstva; i++){
 				templ.input = new double[p.inputLength];
-				for (int j=2; j<p.inputLength; j++){															//ИЗМЕНИТЬ!!!!
-					templ.input[j-2]=double.Parse(line[j].ToString());
+				for (int j=0; j<p.inputLength; j++){															//ИЗМЕНИТЬ!!!! ??
+					templ.input[j]=double.Parse(line[j].ToString());
 				}
 				templ=templ.next;
 			}
